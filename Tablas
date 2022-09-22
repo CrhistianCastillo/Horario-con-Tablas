@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horario</title>
+<link rel="stylesheet" href="estiloTabla.css">
+</head>
+<body>
+    <div id="contenido">
+        <table>
+            <caption> Horario 2 SMRC</caption>
+            <thead>
+            <tr>
+                <th></th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miercoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th>15:30-16:25 </th>
+                <td>SR</td>
+                <td>AW</td>
+                <td>SGI</td>
+                <td>AW</td>
+                <td>SOR</td>
+            </tr>
+            <tr>
+                <th>16:25-17:20</th>
+                <td>SR</td>
+                <td>AW</td>
+                <td>AW</td>
+                <td>AW</td>
+                <td>SOR</td>
+            </tr>
+            <tr>
+                <th>17:20-18:15</th>
+                <td>ING</td>
+                <td>SOR</td>
+                <td>SR</td>
+                <td>SR</td>
+                <td>ING</td>
+            </tr>
+            <tr>
+                <th>18:30-19:25</th>
+                <td>EMP</td>
+                <td>SOR</td>
+                <td>SR</td>
+                <td>SR</td>
+                <td>SR</td>
+            </tr>
+            <tr>
+                <th>19:25-20:20</th>
+                <td>SOR</td>
+                <td>SGI</td>
+                <td>SOR</td>
+                <td>SGI</td>
+                <td>SR</td>
+            </tr>
+            <tr>
+                <th>20:20-21:15</th>
+                <td>SOR</td>
+                <td>SGI</td>
+                <td>SOR</td>
+                <td>EMP</td>
+                <td>EMP</td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+</body>
+</html>
