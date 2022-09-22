@@ -1,0 +1,32 @@
+body{
+    background-color: #632432;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#contenido{ 
+   margin: 150px auto;
+    width: 600px;
+}
+table{
+    background-color: white;
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+    
+    padding: 10px;px
+}
+thead{
+    background-color: #246335;
+    border-bottom: solid 5px;
+
+}
+caption{
+    background-color: lightslategrey;
+}
+tr:nth-child(even){
+    background-color: #ddd;
+}
+th{
+    background-color: burlywood;
+}
